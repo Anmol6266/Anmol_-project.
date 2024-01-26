@@ -1,1 +1,1 @@
-this is a project of  calculator . who are perform multiple operation like addition ,subtraction ,multiplication ,division and find remainder .this project created with the help of HTML,CSS and javaScript. 
+this is a project of  calculator and  perform multiple operation like addition ,subtraction ,multiplication ,division and find remainder .this project created with the help of HTML,CSS and javaScript. 
